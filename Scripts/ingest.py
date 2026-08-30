@@ -62,7 +62,7 @@ def transform_data(records):
                 "reactions": ", ".join(reaction_names)
                 if reaction_names
                 else "Unknown",
-                "serious": record.get("serious", 0),
+                "serious": int(record.get("serious", 0)),
                 "country": record.get("occurcountry", "Unknown"),
             }
         )
