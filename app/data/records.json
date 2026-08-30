@@ -6,7 +6,7 @@
     "patient_sex": "1",
     "drugs": "DURAGESIC-100",
     "reactions": "DRUG ADMINISTRATION ERROR, OVERDOSE",
-    "serious": "1",
+    "serious": 1,
     "country": "Unknown"
   },
   {
@@ -16,7 +16,7 @@
     "patient_sex": "2",
     "drugs": "BONIVA",
     "reactions": "Vomiting, Diarrhoea, Arthralgia, Headache",
-    "serious": "1",
+    "serious": 1,
     "country": "Unknown"
   },
   {
@@ -26,7 +26,7 @@
     "patient_sex": "2",
     "drugs": "IBUPROFEN",
     "reactions": "Dyspepsia, Renal impairment",
-    "serious": "1",
+    "serious": 1,
     "country": "Unknown"
   },
   {
@@ -36,7 +36,7 @@
     "patient_sex": "1",
     "drugs": "LYRICA",
     "reactions": "Drug ineffective",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -46,7 +46,7 @@
     "patient_sex": "2",
     "drugs": "DOXYCYCLINE HYCLATE, TRAMADOL HYDROCHLORIDE, OXYCONTIN, TALWIN, CODEINE, IODINE, ASPIRIN, LORTAB, FIORINAL",
     "reactions": "Drug hypersensitivity",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -56,7 +56,7 @@
     "patient_sex": "2",
     "drugs": "LIPITOR, LISINOPRIL, LOSARTAN POTASSIUM, METOPROLOL TARTRATE, MINOCYCLINE, BACTRIM",
     "reactions": "Drug hypersensitivity",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -66,7 +66,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS, TYVASO",
     "reactions": "Cough, Throat irritation",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -76,7 +76,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS, OXYGEN., LETAIRIS",
     "reactions": "Rhinorrhoea",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -86,7 +86,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS, LETAIRIS",
     "reactions": "Unevaluable event, Malaise",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -96,7 +96,7 @@
     "patient_sex": "1",
     "drugs": "LETAIRIS, LETAIRIS",
     "reactions": "Hepatic enzyme increased",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -106,7 +106,7 @@
     "patient_sex": "2",
     "drugs": "LYRICA, METOPROLOL, XANAX, LETAIRIS, ADCIRCA, ZOCOR, ADVAIR HFA, ASPIRIN., NEXIUM, TRIAMTERENE., SPIRIVA",
     "reactions": "Back pain",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -116,7 +116,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS, LETAIRIS, LETAIRIS, TRACLEER",
     "reactions": "Oedema peripheral, Fluid retention",
-    "serious": "1",
+    "serious": 1,
     "country": "US"
   },
   {
@@ -126,7 +126,7 @@
     "patient_sex": "2",
     "drugs": "ILARIS, ILARIS, PREDNISONE, RELPAX, ULTRACET, AMBIEN",
     "reactions": "Pneumonia, Drug ineffective",
-    "serious": "1",
+    "serious": 1,
     "country": "US"
   },
   {
@@ -136,7 +136,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS, LETAIRIS, LETAIRIS",
     "reactions": "Swelling, Jaundice",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -146,7 +146,7 @@
     "patient_sex": "1",
     "drugs": "LETAIRIS",
     "reactions": "Back pain",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -156,7 +156,7 @@
     "patient_sex": "1",
     "drugs": "RANOLAZINE",
     "reactions": "Death",
-    "serious": "1",
+    "serious": 1,
     "country": "US"
   },
   {
@@ -166,7 +166,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Oedema, Fatigue, Dyspnoea exertional, Fluid retention",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -176,7 +176,7 @@
     "patient_sex": "1",
     "drugs": "BENLYSTA, PLAQUENIL, PREDNISONE",
     "reactions": "Angioedema, Laryngeal oedema, Face oedema",
-    "serious": "1",
+    "serious": 1,
     "country": "US"
   },
   {
@@ -186,7 +186,7 @@
     "patient_sex": "2",
     "drugs": "BELIMUMAB, AZATHIOPRINE, PREDNISONE, FLUOXETINE, CLONAZEPAM, CALCIUM CARBONATE, VITAMIN D, OMEPRAZOLE",
     "reactions": "Tuberculosis of central nervous system",
-    "serious": "1",
+    "serious": 1,
     "country": "BR"
   },
   {
@@ -196,7 +196,7 @@
     "patient_sex": "2",
     "drugs": "BENLYSTA, PLAQUENIL, FOLTX, CYMBALTA, XANAX, PERCOCET, NEXIUM, SUMATRIPTAN, METHOTREXATE, IBUPROFEN",
     "reactions": "Cholecystectomy, Nephrolithiasis, Biliary tract disorder, Malaise",
-    "serious": "1",
+    "serious": 1,
     "country": "US"
   },
   {
@@ -206,7 +206,7 @@
     "patient_sex": "1",
     "drugs": "TYVASO, LOSARTAN., LETAIRIS, LOSARTAN., LETAIRIS",
     "reactions": "Headache, Hypotension",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -216,7 +216,7 @@
     "patient_sex": "1",
     "drugs": "ACETAMINOPHEN., OFATUMUMAB, BAKTAR, ZYLORIC, CHINESE MEDICINE, TAKEPRON, ITRIZOLE, PREDNISOLONE., PREDNISOLONE., OFATUMUMAB, ACETAMINOPHEN., POLARAMINE, POLARAMINE",
     "reactions": "Adenoviral haemorrhagic cystitis, Pyrexia",
-    "serious": "1",
+    "serious": 1,
     "country": "JP"
   },
   {
@@ -226,7 +226,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Tremor",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -236,7 +236,7 @@
     "patient_sex": "2",
     "drugs": "PRADAXA",
     "reactions": "Fall, Pain in extremity, Hiccups",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -246,7 +246,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS, LETAIRIS",
     "reactions": "Malaise, Ocular hyperaemia",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -256,7 +256,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Swelling",
-    "serious": "1",
+    "serious": 1,
     "country": "US"
   },
   {
@@ -266,7 +266,7 @@
     "patient_sex": "2",
     "drugs": "CEFTRIAXONE, METRONIDAZOLE",
     "reactions": "Meconium stain, Amniotic cavity infection, Maternal exposure during pregnancy",
-    "serious": "1",
+    "serious": 1,
     "country": "CN"
   },
   {
@@ -276,7 +276,7 @@
     "patient_sex": "1",
     "drugs": "PREDNISONE, DEXAMETHASONE, METHOTREXATE",
     "reactions": "Respiratory failure, Listeriosis, Pyrexia, Headache, Vomiting, Mental status changes, Meningitis, Pneumonia staphylococcal",
-    "serious": "1",
+    "serious": 1,
     "country": "CN"
   },
   {
@@ -286,7 +286,7 @@
     "patient_sex": "2",
     "drugs": "PACLITAXEL, DOCETAXEL, ADRIAMYCIN, CYCLOPHOSPHAMIDE",
     "reactions": "Type IV hypersensitivity reaction, Skin toxicity, Palmar-plantar erythrodysaesthesia syndrome, Nail toxicity, Arthralgia, Myalgia, Asthenia, Diarrhoea, Neuropathy peripheral",
-    "serious": "1",
+    "serious": 1,
     "country": "ES"
   },
   {
@@ -296,7 +296,7 @@
     "patient_sex": "2",
     "drugs": "PARACETAMOLO, BIBW 2992, LANSOPRAZOLO, INSULINA GLARGINE, IDROCLOROTIAZ, IRBESARTAN., POTASSIUM CHLORIDE., BIBW 2992, INSULINA GLULISINA, PARACETAMOLO, FUROSEMIDE., ZOLPIDEM, NEBIVOLOLO, IDROCLOROTIAZ, OSSICODONE, OSSICODONE, ALLOPURINOLO, CALCIUM CARBONATE., NORITREN, RANITIDINE, IRBESARTAN., RANITIDINE",
     "reactions": "Diarrhoea, Abdominal pain, Asthenia, Diarrhoea, Weight decreased, Abdominal pain, Blood creatinine increased, C-reactive protein increased, Dysuria, Pyrexia, Blood creatinine increased, C-reactive protein increased, Pleural effusion",
-    "serious": "1",
+    "serious": 1,
     "country": "IT"
   },
   {
@@ -306,7 +306,7 @@
     "patient_sex": "1",
     "drugs": "LETAIRIS, LETAIRIS",
     "reactions": "Feeling abnormal",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -316,7 +316,7 @@
     "patient_sex": "2",
     "drugs": "MIRENA, CARBAMAZEPINE",
     "reactions": "Chemical poisoning, Neck pain, Back pain, Paraesthesia",
-    "serious": "1",
+    "serious": 1,
     "country": "GB"
   },
   {
@@ -326,7 +326,7 @@
     "patient_sex": "1",
     "drugs": "PRADAXA, LOSARTAN, CRESTOR, DIABETES MEDICATION",
     "reactions": "Proctalgia, Anorectal discomfort, Rectal haemorrhage",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -336,7 +336,7 @@
     "patient_sex": "1",
     "drugs": "LETAIRIS",
     "reactions": "Swelling",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -346,7 +346,7 @@
     "patient_sex": "2",
     "drugs": "SPIRIVA",
     "reactions": "Dry mouth, Product quality issue",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -356,7 +356,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS, LETAIRIS",
     "reactions": "Localised oedema, Oedema peripheral, Fluid retention, Nasal congestion",
-    "serious": "1",
+    "serious": 1,
     "country": "US"
   },
   {
@@ -366,7 +366,7 @@
     "patient_sex": "1",
     "drugs": "JANUMET, JANUVIA",
     "reactions": "Metastases to spine, Anxiety, Renal cyst, Metastases to thorax, Metastases to retroperitoneum, Emotional disorder, Pancreatic carcinoma metastatic, Metastases to liver, Metastases to lung, Emotional distress, Lymphadenopathy, Prostate cancer, Peripheral venous disease",
-    "serious": "1",
+    "serious": 1,
     "country": "US"
   },
   {
@@ -376,7 +376,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Dysphonia, Throat irritation",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -386,7 +386,7 @@
     "patient_sex": "2",
     "drugs": "KLACID, CLAVULIN, OKI, TACHIPIRINA",
     "reactions": "Swollen tongue, Pruritus, Rash generalised",
-    "serious": "1",
+    "serious": 1,
     "country": "IT"
   },
   {
@@ -396,7 +396,7 @@
     "patient_sex": "1",
     "drugs": "LETAIRIS",
     "reactions": "Anaemia",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -406,7 +406,7 @@
     "patient_sex": "2",
     "drugs": "PREDNISONE, METHYLPREDNISOLONE, HYDROXYCHLOROQUINE, MYCOPHENOLATE MOFETIL, CICLOSPORIN, DAPSONE",
     "reactions": "Listeriosis, Pyrexia, Diarrhoea, Meningitis",
-    "serious": "1",
+    "serious": 1,
     "country": "CN"
   },
   {
@@ -416,7 +416,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Dizziness, Oedema, Dyspnoea",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -426,7 +426,7 @@
     "patient_sex": "1",
     "drugs": "TASIGNA",
     "reactions": "Overdose, General physical health deterioration, Malaise, Drug ineffective",
-    "serious": "1",
+    "serious": 1,
     "country": "US"
   },
   {
@@ -436,7 +436,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS, LETAIRIS",
     "reactions": "Liver function test abnormal, Liver disorder",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -446,7 +446,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS, LETAIRIS",
     "reactions": "Headache",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -456,7 +456,7 @@
     "patient_sex": "2",
     "drugs": "CITALOPRAM, PREVISCAN, DAFALGAN",
     "reactions": "Haematoma, Thrombocytopenia, International normalised ratio increased",
-    "serious": "1",
+    "serious": 1,
     "country": "FR"
   },
   {
@@ -466,7 +466,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Dyspnoea, Hypoxia",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -476,7 +476,7 @@
     "patient_sex": "2",
     "drugs": "MIRENA, MIRENA",
     "reactions": "Device dislocation",
-    "serious": "1",
+    "serious": 1,
     "country": "US"
   },
   {
@@ -486,7 +486,7 @@
     "patient_sex": "1",
     "drugs": "OXYGEN., LETAIRIS",
     "reactions": "Epistaxis, Cough, Nasal dryness, Nasal congestion, Haemoptysis, Asthenia",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -496,7 +496,7 @@
     "patient_sex": "2",
     "drugs": "MORPHINE SULFATE EXTENDED-RELEASE TABLETS (RHODES 74-862), MORPHINE SULFATE (SIMILAR TO NDA 19-516), AMLODIPINE, TRIAMTERENE AND HYDROCHLOROTHIAZID, ASPIRIN, CELEXA                             /00582602/, CLOBETASOL PROPRIONATE, FIORICET",
     "reactions": "Cerebrovascular accident, Blood pressure increased, Pain",
-    "serious": "1",
+    "serious": 1,
     "country": "US"
   },
   {
@@ -506,7 +506,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Malaise, Gingivitis",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -516,7 +516,7 @@
     "patient_sex": "2",
     "drugs": "MIRTAZAPINE (UNKNOWN), LANSOPRAZOLE, NASONEX",
     "reactions": "Aggression, Violence-related symptom, Anger, Blepharospasm, Suicidal ideation",
-    "serious": "1",
+    "serious": 1,
     "country": "GB"
   },
   {
@@ -526,7 +526,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS, LETAIRIS",
     "reactions": "Oedema peripheral",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -536,7 +536,7 @@
     "patient_sex": "1",
     "drugs": "CASODEX, CASODEX",
     "reactions": "Dyspnoea, Drug ineffective",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -546,7 +546,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Haemoglobin decreased",
-    "serious": "1",
+    "serious": 1,
     "country": "US"
   },
   {
@@ -556,7 +556,7 @@
     "patient_sex": "1",
     "drugs": "CASODEX",
     "reactions": "Heart rate decreased",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -566,7 +566,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Oedema peripheral",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -576,7 +576,7 @@
     "patient_sex": "1",
     "drugs": "TACROLIMUS (WATSON LABORATORIES), PREDNISONE, PREDNISONE, AZATHIOPRINE",
     "reactions": "Posterior reversible encephalopathy syndrome, Cerebral haemorrhage, Subarachnoid haemorrhage",
-    "serious": "1",
+    "serious": 1,
     "country": "US"
   },
   {
@@ -586,7 +586,7 @@
     "patient_sex": "1",
     "drugs": "LETAIRIS",
     "reactions": "Dyspnoea",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -596,7 +596,7 @@
     "patient_sex": "1",
     "drugs": "DOXYCYCLINE, AMLODIPINE, PARACETAMOL, ENALAPRIL, DOXAZOSIN (UNKNOWN), INDAPAMIDE",
     "reactions": "Erection increased",
-    "serious": "1",
+    "serious": 1,
     "country": "GB"
   },
   {
@@ -606,7 +606,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Hypertension",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -616,7 +616,7 @@
     "patient_sex": "1",
     "drugs": "CITALOPRAM (UNKNOWN), PROPRANOLOL, RANITIDINE, THIAMINE HYDROCHLORIDE, VITAMIN B COMPLEX                  /00212701/",
     "reactions": "Hyponatraemia",
-    "serious": "1",
+    "serious": 1,
     "country": "GB"
   },
   {
@@ -626,7 +626,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Gastric disorder, Dyspnoea",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -636,7 +636,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Unevaluable event",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -646,7 +646,7 @@
     "patient_sex": "2",
     "drugs": "ADCIRCA, LETAIRIS",
     "reactions": "Drug hypersensitivity, Pruritus, Rash",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -656,7 +656,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Oedema, Fluid retention",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -666,7 +666,7 @@
     "patient_sex": "1",
     "drugs": "LETAIRIS",
     "reactions": "Oedema",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -676,7 +676,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Unevaluable event, Eructation, Chest discomfort",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -686,7 +686,7 @@
     "patient_sex": "1",
     "drugs": "LETAIRIS",
     "reactions": "Pollakiuria, Poor quality sleep, Dyspnoea",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -696,7 +696,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Feeling abnormal",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -706,7 +706,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Swelling",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -716,7 +716,7 @@
     "patient_sex": "1",
     "drugs": "LETAIRIS",
     "reactions": "Nasal congestion, Seasonal allergy",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -726,7 +726,7 @@
     "patient_sex": "1",
     "drugs": "LETAIRIS",
     "reactions": "Nausea",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -736,7 +736,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Nasal congestion",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -746,7 +746,7 @@
     "patient_sex": "2",
     "drugs": "PREDNISONE, CYCLOPHOSPHAMIDE",
     "reactions": "Loss of consciousness, Listeriosis, Pyrexia, Headache, Vomiting, Meningitis",
-    "serious": "1",
+    "serious": 1,
     "country": "CN"
   },
   {
@@ -756,7 +756,7 @@
     "patient_sex": "1",
     "drugs": "CASODEX, LUPRON, IBUPROPHEN, ULRAM, PROSCAR",
     "reactions": "Diarrhoea, Arthralgia, Nausea",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -766,7 +766,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Malaise, Weight fluctuation",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -776,7 +776,7 @@
     "patient_sex": "1",
     "drugs": "LETAIRIS",
     "reactions": "Dyspnoea, Tremor, Bone pain, Presyncope",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -786,7 +786,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Nasopharyngitis",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -796,7 +796,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Respiratory tract infection, Body temperature, Pneumonia, Productive cough",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -806,7 +806,7 @@
     "patient_sex": "1",
     "drugs": "LETAIRIS",
     "reactions": "No therapeutic response",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -816,7 +816,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Blood count abnormal",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -826,7 +826,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Unevaluable event",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -836,7 +836,7 @@
     "patient_sex": "1",
     "drugs": "LETAIRIS",
     "reactions": "Unevaluable event",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -846,7 +846,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS, LETAIRIS",
     "reactions": "Dyspnoea exertional, Fatigue",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -856,7 +856,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS, LETAIRIS",
     "reactions": "Fluid retention, Haemoglobin decreased",
-    "serious": "1",
+    "serious": 1,
     "country": "US"
   },
   {
@@ -866,7 +866,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Cellulitis",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -876,7 +876,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Dyspnoea, Dyspnoea exertional, Oedema",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -886,7 +886,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS, LETAIRIS",
     "reactions": "Hepatic enzyme decreased",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -896,7 +896,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Headache, Dyspnoea, Diarrhoea, Increased appetite, Swelling, Weight increased, Vomiting",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -906,7 +906,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Dyspnoea",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -916,7 +916,7 @@
     "patient_sex": "1",
     "drugs": "RAMIPRIL., WARFARIN, LIPITOR, TAMSULOSIN, ADALAT CC, DIPYRIDAMOLE., SYNTHROID, VISMODEGIB, PHYTONADIONE.",
     "reactions": "Subdural haematoma",
-    "serious": "1",
+    "serious": 1,
     "country": "CA"
   },
   {
@@ -926,7 +926,7 @@
     "patient_sex": "1",
     "drugs": "LETAIRIS",
     "reactions": "Peripheral swelling",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -936,7 +936,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Dyspnoea exertional",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -946,7 +946,7 @@
     "patient_sex": "1",
     "drugs": "DEPAKOTE",
     "reactions": "Tremor, Dry mouth",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -956,7 +956,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS, REMODULIN",
     "reactions": "Unevaluable event",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -966,7 +966,7 @@
     "patient_sex": "1",
     "drugs": "CITALOPRAM ORAL SOLUTION, CYMBALTA",
     "reactions": "Sopor, Drug abuse, Overdose",
-    "serious": "1",
+    "serious": 1,
     "country": "IT"
   },
   {
@@ -976,7 +976,7 @@
     "patient_sex": "1",
     "drugs": "DONEPEZIL, DONEPEZIL (UNKNOWN), TRAMADOL",
     "reactions": "Hallucination, visual, Headache, Insomnia, Somnolence, Confusional state",
-    "serious": "1",
+    "serious": 1,
     "country": "GB"
   },
   {
@@ -986,7 +986,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Headache, Dizziness exertional, Haemoglobin decreased, Dyspnoea",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   },
   {
@@ -996,7 +996,7 @@
     "patient_sex": "2",
     "drugs": "LETAIRIS",
     "reactions": "Hot flush, Rosacea",
-    "serious": "2",
+    "serious": 2,
     "country": "US"
   }
 ]
