@@ -1,0 +1,101 @@
+id,received_date,patient_age,patient_sex,drugs,reactions,serious,country
+1,20080707,26,1,DURAGESIC-100,"DRUG ADMINISTRATION ERROR, OVERDOSE",1,Unknown
+2,20140306,77,2,BONIVA,"Vomiting, Diarrhoea, Arthralgia, Headache",1,Unknown
+3,20140228,,2,IBUPROFEN,"Dyspepsia, Renal impairment",1,Unknown
+4,20140312,,1,LYRICA,Drug ineffective,2,US
+5,20140312,,2,"DOXYCYCLINE HYCLATE, TRAMADOL HYDROCHLORIDE, OXYCONTIN, TALWIN, CODEINE, IODINE, ASPIRIN, LORTAB, FIORINAL",Drug hypersensitivity,2,US
+6,20140312,48,2,"LIPITOR, LISINOPRIL, LOSARTAN POTASSIUM, METOPROLOL TARTRATE, MINOCYCLINE, BACTRIM",Drug hypersensitivity,2,US
+7,20140312,68,2,"LETAIRIS, TYVASO","Cough, Throat irritation",2,US
+8,20140312,65,2,"LETAIRIS, OXYGEN., LETAIRIS",Rhinorrhoea,2,US
+9,20140312,59,2,"LETAIRIS, LETAIRIS","Unevaluable event, Malaise",2,US
+10,20140312,42,1,"LETAIRIS, LETAIRIS",Hepatic enzyme increased,2,US
+11,20140312,66,2,"LYRICA, METOPROLOL, XANAX, LETAIRIS, ADCIRCA, ZOCOR, ADVAIR HFA, ASPIRIN., NEXIUM, TRIAMTERENE., SPIRIVA",Back pain,2,US
+12,20140312,76,2,"LETAIRIS, LETAIRIS, LETAIRIS, TRACLEER","Oedema peripheral, Fluid retention",1,US
+13,20140312,43,2,"ILARIS, ILARIS, PREDNISONE, RELPAX, ULTRACET, AMBIEN","Pneumonia, Drug ineffective",1,US
+14,20140312,81,2,"LETAIRIS, LETAIRIS, LETAIRIS","Swelling, Jaundice",2,US
+15,20140312,82,1,LETAIRIS,Back pain,2,US
+16,20140312,,1,RANOLAZINE,Death,1,US
+17,20140312,73,2,LETAIRIS,"Oedema, Fatigue, Dyspnoea exertional, Fluid retention",2,US
+18,20140312,46,1,"BENLYSTA, PLAQUENIL, PREDNISONE","Angioedema, Laryngeal oedema, Face oedema",1,US
+19,20140312,59,2,"BELIMUMAB, AZATHIOPRINE, PREDNISONE, FLUOXETINE, CLONAZEPAM, CALCIUM CARBONATE, VITAMIN D, OMEPRAZOLE",Tuberculosis of central nervous system,1,BR
+20,20140312,46,2,"BENLYSTA, PLAQUENIL, FOLTX, CYMBALTA, XANAX, PERCOCET, NEXIUM, SUMATRIPTAN, METHOTREXATE, IBUPROFEN","Cholecystectomy, Nephrolithiasis, Biliary tract disorder, Malaise",1,US
+21,20140312,42,1,"TYVASO, LOSARTAN., LETAIRIS, LOSARTAN., LETAIRIS","Headache, Hypotension",2,US
+22,20140312,71,1,"ACETAMINOPHEN., OFATUMUMAB, BAKTAR, ZYLORIC, CHINESE MEDICINE, TAKEPRON, ITRIZOLE, PREDNISOLONE., PREDNISOLONE., OFATUMUMAB, ACETAMINOPHEN., POLARAMINE, POLARAMINE","Adenoviral haemorrhagic cystitis, Pyrexia",1,JP
+23,20140312,61,2,LETAIRIS,Tremor,2,US
+24,20140312,73,2,PRADAXA,"Fall, Pain in extremity, Hiccups",2,US
+25,20140312,57,2,"LETAIRIS, LETAIRIS","Malaise, Ocular hyperaemia",2,US
+26,20140312,68,2,LETAIRIS,Swelling,1,US
+27,20140312,29,2,"CEFTRIAXONE, METRONIDAZOLE","Meconium stain, Amniotic cavity infection, Maternal exposure during pregnancy",1,CN
+28,20140312,53,1,"PREDNISONE, DEXAMETHASONE, METHOTREXATE","Respiratory failure, Listeriosis, Pyrexia, Headache, Vomiting, Mental status changes, Meningitis, Pneumonia staphylococcal",1,CN
+29,20140312,55,2,"PACLITAXEL, DOCETAXEL, ADRIAMYCIN, CYCLOPHOSPHAMIDE","Type IV hypersensitivity reaction, Skin toxicity, Palmar-plantar erythrodysaesthesia syndrome, Nail toxicity, Arthralgia, Myalgia, Asthenia, Diarrhoea, Neuropathy peripheral",1,ES
+30,20140312,79,2,"PARACETAMOLO, BIBW 2992, LANSOPRAZOLO, INSULINA GLARGINE, IDROCLOROTIAZ, IRBESARTAN., POTASSIUM CHLORIDE., BIBW 2992, INSULINA GLULISINA, PARACETAMOLO, FUROSEMIDE., ZOLPIDEM, NEBIVOLOLO, IDROCLOROTIAZ, OSSICODONE, OSSICODONE, ALLOPURINOLO, CALCIUM CARBONATE., NORITREN, RANITIDINE, IRBESARTAN., RANITIDINE","Diarrhoea, Abdominal pain, Asthenia, Diarrhoea, Weight decreased, Abdominal pain, Blood creatinine increased, C-reactive protein increased, Dysuria, Pyrexia, Blood creatinine increased, C-reactive protein increased, Pleural effusion",1,IT
+31,20140312,50,1,"LETAIRIS, LETAIRIS",Feeling abnormal,2,US
+32,20140312,38,2,"MIRENA, CARBAMAZEPINE","Chemical poisoning, Neck pain, Back pain, Paraesthesia",1,GB
+33,20140312,80,1,"PRADAXA, LOSARTAN, CRESTOR, DIABETES MEDICATION","Proctalgia, Anorectal discomfort, Rectal haemorrhage",2,US
+34,20140312,79,1,LETAIRIS,Swelling,2,US
+35,20140312,,2,SPIRIVA,"Dry mouth, Product quality issue",2,US
+36,20140312,62,2,"LETAIRIS, LETAIRIS","Localised oedema, Oedema peripheral, Fluid retention, Nasal congestion",1,US
+37,20140312,,1,"JANUMET, JANUVIA","Metastases to spine, Anxiety, Renal cyst, Metastases to thorax, Metastases to retroperitoneum, Emotional disorder, Pancreatic carcinoma metastatic, Metastases to liver, Metastases to lung, Emotional distress, Lymphadenopathy, Prostate cancer, Peripheral venous disease",1,US
+38,20140312,59,2,LETAIRIS,"Dysphonia, Throat irritation",2,US
+39,20140312,34,2,"KLACID, CLAVULIN, OKI, TACHIPIRINA","Swollen tongue, Pruritus, Rash generalised",1,IT
+40,20140312,69,1,LETAIRIS,Anaemia,2,US
+41,20140312,22,2,"PREDNISONE, METHYLPREDNISOLONE, HYDROXYCHLOROQUINE, MYCOPHENOLATE MOFETIL, CICLOSPORIN, DAPSONE","Listeriosis, Pyrexia, Diarrhoea, Meningitis",1,CN
+42,20140312,54,2,LETAIRIS,"Dizziness, Oedema, Dyspnoea",2,US
+43,20140312,,1,TASIGNA,"Overdose, General physical health deterioration, Malaise, Drug ineffective",1,US
+44,20140312,64,2,"LETAIRIS, LETAIRIS","Liver function test abnormal, Liver disorder",2,US
+45,20140312,69,2,"LETAIRIS, LETAIRIS",Headache,2,US
+46,20140312,88,2,"CITALOPRAM, PREVISCAN, DAFALGAN","Haematoma, Thrombocytopenia, International normalised ratio increased",1,FR
+47,20140312,73,2,LETAIRIS,"Dyspnoea, Hypoxia",2,US
+48,20140312,29,2,"MIRENA, MIRENA",Device dislocation,1,US
+49,20140312,93,1,"OXYGEN., LETAIRIS","Epistaxis, Cough, Nasal dryness, Nasal congestion, Haemoptysis, Asthenia",2,US
+50,20140312,,2,"MORPHINE SULFATE EXTENDED-RELEASE TABLETS (RHODES 74-862), MORPHINE SULFATE (SIMILAR TO NDA 19-516), AMLODIPINE, TRIAMTERENE AND HYDROCHLOROTHIAZID, ASPIRIN, CELEXA                             /00582602/, CLOBETASOL PROPRIONATE, FIORICET","Cerebrovascular accident, Blood pressure increased, Pain",1,US
+51,20140312,71,2,LETAIRIS,"Malaise, Gingivitis",2,US
+52,20140312,46,2,"MIRTAZAPINE (UNKNOWN), LANSOPRAZOLE, NASONEX","Aggression, Violence-related symptom, Anger, Blepharospasm, Suicidal ideation",1,GB
+53,20140312,51,2,"LETAIRIS, LETAIRIS",Oedema peripheral,2,US
+54,20140312,,1,"CASODEX, CASODEX","Dyspnoea, Drug ineffective",2,US
+55,20140312,52,2,LETAIRIS,Haemoglobin decreased,1,US
+56,20140312,,1,CASODEX,Heart rate decreased,2,US
+57,20140312,60,2,LETAIRIS,Oedema peripheral,2,US
+58,20140312,10,1,"TACROLIMUS (WATSON LABORATORIES), PREDNISONE, PREDNISONE, AZATHIOPRINE","Posterior reversible encephalopathy syndrome, Cerebral haemorrhage, Subarachnoid haemorrhage",1,US
+59,20140312,82,1,LETAIRIS,Dyspnoea,2,US
+60,20140312,41,1,"DOXYCYCLINE, AMLODIPINE, PARACETAMOL, ENALAPRIL, DOXAZOSIN (UNKNOWN), INDAPAMIDE",Erection increased,1,GB
+61,20140312,29,2,LETAIRIS,Hypertension,2,US
+62,20140312,65,1,"CITALOPRAM (UNKNOWN), PROPRANOLOL, RANITIDINE, THIAMINE HYDROCHLORIDE, VITAMIN B COMPLEX                  /00212701/",Hyponatraemia,1,GB
+63,20140312,71,2,LETAIRIS,"Gastric disorder, Dyspnoea",2,US
+64,20140312,50,2,LETAIRIS,Unevaluable event,2,US
+65,20140312,31,2,"ADCIRCA, LETAIRIS","Drug hypersensitivity, Pruritus, Rash",2,US
+66,20140312,71,2,LETAIRIS,"Oedema, Fluid retention",2,US
+67,20140312,32,1,LETAIRIS,Oedema,2,US
+68,20140312,70,2,LETAIRIS,"Unevaluable event, Eructation, Chest discomfort",2,US
+69,20140312,78,1,LETAIRIS,"Pollakiuria, Poor quality sleep, Dyspnoea",2,US
+70,20140312,73,2,LETAIRIS,Feeling abnormal,2,US
+71,20140312,64,2,LETAIRIS,Swelling,2,US
+72,20140312,51,1,LETAIRIS,"Nasal congestion, Seasonal allergy",2,US
+73,20140312,49,1,LETAIRIS,Nausea,2,US
+74,20140312,65,2,LETAIRIS,Nasal congestion,2,US
+75,20140312,53,2,"PREDNISONE, CYCLOPHOSPHAMIDE","Loss of consciousness, Listeriosis, Pyrexia, Headache, Vomiting, Meningitis",1,CN
+76,20140312,62,1,"CASODEX, LUPRON, IBUPROPHEN, ULRAM, PROSCAR","Diarrhoea, Arthralgia, Nausea",2,US
+77,20140312,59,2,LETAIRIS,"Malaise, Weight fluctuation",2,US
+78,20140312,53,1,LETAIRIS,"Dyspnoea, Tremor, Bone pain, Presyncope",2,US
+79,20140312,55,2,LETAIRIS,Nasopharyngitis,2,US
+80,20140312,67,2,LETAIRIS,"Respiratory tract infection, Body temperature, Pneumonia, Productive cough",2,US
+81,20140312,76,1,LETAIRIS,No therapeutic response,2,US
+82,20140312,57,2,LETAIRIS,Blood count abnormal,2,US
+83,20140312,63,2,LETAIRIS,Unevaluable event,2,US
+84,20140312,75,1,LETAIRIS,Unevaluable event,2,US
+85,20140312,79,2,"LETAIRIS, LETAIRIS","Dyspnoea exertional, Fatigue",2,US
+86,20140312,72,2,"LETAIRIS, LETAIRIS","Fluid retention, Haemoglobin decreased",1,US
+87,20140312,67,2,LETAIRIS,Cellulitis,2,US
+88,20140312,19,2,LETAIRIS,"Dyspnoea, Dyspnoea exertional, Oedema",2,US
+89,20140312,32,2,"LETAIRIS, LETAIRIS",Hepatic enzyme decreased,2,US
+90,20140312,44,2,LETAIRIS,"Headache, Dyspnoea, Diarrhoea, Increased appetite, Swelling, Weight increased, Vomiting",2,US
+91,20140312,75,2,LETAIRIS,Dyspnoea,2,US
+92,20140312,77,1,"RAMIPRIL., WARFARIN, LIPITOR, TAMSULOSIN, ADALAT CC, DIPYRIDAMOLE., SYNTHROID, VISMODEGIB, PHYTONADIONE.",Subdural haematoma,1,CA
+93,20140312,53,1,LETAIRIS,Peripheral swelling,2,US
+94,20140312,88,2,LETAIRIS,Dyspnoea exertional,2,US
+95,20140312,,1,DEPAKOTE,"Tremor, Dry mouth",2,US
+96,20140312,62,2,"LETAIRIS, REMODULIN",Unevaluable event,2,US
+97,20140312,25,1,"CITALOPRAM ORAL SOLUTION, CYMBALTA","Sopor, Drug abuse, Overdose",1,IT
+98,20140312,77,1,"DONEPEZIL, DONEPEZIL (UNKNOWN), TRAMADOL","Hallucination, visual, Headache, Insomnia, Somnolence, Confusional state",1,GB
+99,20140312,56,2,LETAIRIS,"Headache, Dizziness exertional, Haemoglobin decreased, Dyspnoea",2,US
+100,20140312,65,2,LETAIRIS,"Hot flush, Rosacea",2,US
