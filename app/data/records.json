@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "received_date": "20080707",
+    "patient_age": "26",
+    "patient_sex": "1",
+    "drugs": "DURAGESIC-100",
+    "reactions": "DRUG ADMINISTRATION ERROR, OVERDOSE",
+    "serious": 1,
+    "country": "Unknown"
+  },
+  {
+    "id": 2,
+    "received_date": "20140306",
+    "patient_age": "77",
+    "patient_sex": "2",
+    "drugs": "BONIVA",
+    "reactions": "Vomiting, Diarrhoea, Arthralgia, Headache",
+    "serious": 1,
+    "country": "Unknown"
+  },
+  {
+    "id": 3,
+    "received_date": "20140228",
+    "patient_age": null,
+    "patient_sex": "2",
+    "drugs": "IBUPROFEN",
+    "reactions": "Dyspepsia, Renal impairment",
+    "serious": 1,
+    "country": "Unknown"
+  },
+  {
+    "id": 4,
+    "received_date": "20140312",
+    "patient_age": null,
+    "patient_sex": "1",
+    "drugs": "LYRICA",
+    "reactions": "Drug ineffective",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 5,
+    "received_date": "20140312",
+    "patient_age": null,
+    "patient_sex": "2",
+    "drugs": "DOXYCYCLINE HYCLATE, TRAMADOL HYDROCHLORIDE, OXYCONTIN, TALWIN, CODEINE, IODINE, ASPIRIN, LORTAB, FIORINAL",
+    "reactions": "Drug hypersensitivity",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 6,
+    "received_date": "20140312",
+    "patient_age": "48",
+    "patient_sex": "2",
+    "drugs": "LIPITOR, LISINOPRIL, LOSARTAN POTASSIUM, METOPROLOL TARTRATE, MINOCYCLINE, BACTRIM",
+    "reactions": "Drug hypersensitivity",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 7,
+    "received_date": "20140312",
+    "patient_age": "68",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS, TYVASO",
+    "reactions": "Cough, Throat irritation",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 8,
+    "received_date": "20140312",
+    "patient_age": "65",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS, OXYGEN., LETAIRIS",
+    "reactions": "Rhinorrhoea",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 9,
+    "received_date": "20140312",
+    "patient_age": "59",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS, LETAIRIS",
+    "reactions": "Unevaluable event, Malaise",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 10,
+    "received_date": "20140312",
+    "patient_age": "42",
+    "patient_sex": "1",
+    "drugs": "LETAIRIS, LETAIRIS",
+    "reactions": "Hepatic enzyme increased",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 11,
+    "received_date": "20140312",
+    "patient_age": "66",
+    "patient_sex": "2",
+    "drugs": "LYRICA, METOPROLOL, XANAX, LETAIRIS, ADCIRCA, ZOCOR, ADVAIR HFA, ASPIRIN., NEXIUM, TRIAMTERENE., SPIRIVA",
+    "reactions": "Back pain",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 12,
+    "received_date": "20140312",
+    "patient_age": "76",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS, LETAIRIS, LETAIRIS, TRACLEER",
+    "reactions": "Oedema peripheral, Fluid retention",
+    "serious": 1,
+    "country": "US"
+  },
+  {
+    "id": 13,
+    "received_date": "20140312",
+    "patient_age": "43",
+    "patient_sex": "2",
+    "drugs": "ILARIS, ILARIS, PREDNISONE, RELPAX, ULTRACET, AMBIEN",
+    "reactions": "Pneumonia, Drug ineffective",
+    "serious": 1,
+    "country": "US"
+  },
+  {
+    "id": 14,
+    "received_date": "20140312",
+    "patient_age": "81",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS, LETAIRIS, LETAIRIS",
+    "reactions": "Swelling, Jaundice",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 15,
+    "received_date": "20140312",
+    "patient_age": "82",
+    "patient_sex": "1",
+    "drugs": "LETAIRIS",
+    "reactions": "Back pain",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 16,
+    "received_date": "20140312",
+    "patient_age": null,
+    "patient_sex": "1",
+    "drugs": "RANOLAZINE",
+    "reactions": "Death",
+    "serious": 1,
+    "country": "US"
+  },
+  {
+    "id": 17,
+    "received_date": "20140312",
+    "patient_age": "73",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Oedema, Fatigue, Dyspnoea exertional, Fluid retention",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 18,
+    "received_date": "20140312",
+    "patient_age": "46",
+    "patient_sex": "1",
+    "drugs": "BENLYSTA, PLAQUENIL, PREDNISONE",
+    "reactions": "Angioedema, Laryngeal oedema, Face oedema",
+    "serious": 1,
+    "country": "US"
+  },
+  {
+    "id": 19,
+    "received_date": "20140312",
+    "patient_age": "59",
+    "patient_sex": "2",
+    "drugs": "BELIMUMAB, AZATHIOPRINE, PREDNISONE, FLUOXETINE, CLONAZEPAM, CALCIUM CARBONATE, VITAMIN D, OMEPRAZOLE",
+    "reactions": "Tuberculosis of central nervous system",
+    "serious": 1,
+    "country": "BR"
+  },
+  {
+    "id": 20,
+    "received_date": "20140312",
+    "patient_age": "46",
+    "patient_sex": "2",
+    "drugs": "BENLYSTA, PLAQUENIL, FOLTX, CYMBALTA, XANAX, PERCOCET, NEXIUM, SUMATRIPTAN, METHOTREXATE, IBUPROFEN",
+    "reactions": "Cholecystectomy, Nephrolithiasis, Biliary tract disorder, Malaise",
+    "serious": 1,
+    "country": "US"
+  },
+  {
+    "id": 21,
+    "received_date": "20140312",
+    "patient_age": "42",
+    "patient_sex": "1",
+    "drugs": "TYVASO, LOSARTAN., LETAIRIS, LOSARTAN., LETAIRIS",
+    "reactions": "Headache, Hypotension",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 22,
+    "received_date": "20140312",
+    "patient_age": "71",
+    "patient_sex": "1",
+    "drugs": "ACETAMINOPHEN., OFATUMUMAB, BAKTAR, ZYLORIC, CHINESE MEDICINE, TAKEPRON, ITRIZOLE, PREDNISOLONE., PREDNISOLONE., OFATUMUMAB, ACETAMINOPHEN., POLARAMINE, POLARAMINE",
+    "reactions": "Adenoviral haemorrhagic cystitis, Pyrexia",
+    "serious": 1,
+    "country": "JP"
+  },
+  {
+    "id": 23,
+    "received_date": "20140312",
+    "patient_age": "61",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Tremor",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 24,
+    "received_date": "20140312",
+    "patient_age": "73",
+    "patient_sex": "2",
+    "drugs": "PRADAXA",
+    "reactions": "Fall, Pain in extremity, Hiccups",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 25,
+    "received_date": "20140312",
+    "patient_age": "57",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS, LETAIRIS",
+    "reactions": "Malaise, Ocular hyperaemia",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 26,
+    "received_date": "20140312",
+    "patient_age": "68",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Swelling",
+    "serious": 1,
+    "country": "US"
+  },
+  {
+    "id": 27,
+    "received_date": "20140312",
+    "patient_age": "29",
+    "patient_sex": "2",
+    "drugs": "CEFTRIAXONE, METRONIDAZOLE",
+    "reactions": "Meconium stain, Amniotic cavity infection, Maternal exposure during pregnancy",
+    "serious": 1,
+    "country": "CN"
+  },
+  {
+    "id": 28,
+    "received_date": "20140312",
+    "patient_age": "53",
+    "patient_sex": "1",
+    "drugs": "PREDNISONE, DEXAMETHASONE, METHOTREXATE",
+    "reactions": "Respiratory failure, Listeriosis, Pyrexia, Headache, Vomiting, Mental status changes, Meningitis, Pneumonia staphylococcal",
+    "serious": 1,
+    "country": "CN"
+  },
+  {
+    "id": 29,
+    "received_date": "20140312",
+    "patient_age": "55",
+    "patient_sex": "2",
+    "drugs": "PACLITAXEL, DOCETAXEL, ADRIAMYCIN, CYCLOPHOSPHAMIDE",
+    "reactions": "Type IV hypersensitivity reaction, Skin toxicity, Palmar-plantar erythrodysaesthesia syndrome, Nail toxicity, Arthralgia, Myalgia, Asthenia, Diarrhoea, Neuropathy peripheral",
+    "serious": 1,
+    "country": "ES"
+  },
+  {
+    "id": 30,
+    "received_date": "20140312",
+    "patient_age": "79",
+    "patient_sex": "2",
+    "drugs": "PARACETAMOLO, BIBW 2992, LANSOPRAZOLO, INSULINA GLARGINE, IDROCLOROTIAZ, IRBESARTAN., POTASSIUM CHLORIDE., BIBW 2992, INSULINA GLULISINA, PARACETAMOLO, FUROSEMIDE., ZOLPIDEM, NEBIVOLOLO, IDROCLOROTIAZ, OSSICODONE, OSSICODONE, ALLOPURINOLO, CALCIUM CARBONATE., NORITREN, RANITIDINE, IRBESARTAN., RANITIDINE",
+    "reactions": "Diarrhoea, Abdominal pain, Asthenia, Diarrhoea, Weight decreased, Abdominal pain, Blood creatinine increased, C-reactive protein increased, Dysuria, Pyrexia, Blood creatinine increased, C-reactive protein increased, Pleural effusion",
+    "serious": 1,
+    "country": "IT"
+  },
+  {
+    "id": 31,
+    "received_date": "20140312",
+    "patient_age": "50",
+    "patient_sex": "1",
+    "drugs": "LETAIRIS, LETAIRIS",
+    "reactions": "Feeling abnormal",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 32,
+    "received_date": "20140312",
+    "patient_age": "38",
+    "patient_sex": "2",
+    "drugs": "MIRENA, CARBAMAZEPINE",
+    "reactions": "Chemical poisoning, Neck pain, Back pain, Paraesthesia",
+    "serious": 1,
+    "country": "GB"
+  },
+  {
+    "id": 33,
+    "received_date": "20140312",
+    "patient_age": "80",
+    "patient_sex": "1",
+    "drugs": "PRADAXA, LOSARTAN, CRESTOR, DIABETES MEDICATION",
+    "reactions": "Proctalgia, Anorectal discomfort, Rectal haemorrhage",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 34,
+    "received_date": "20140312",
+    "patient_age": "79",
+    "patient_sex": "1",
+    "drugs": "LETAIRIS",
+    "reactions": "Swelling",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 35,
+    "received_date": "20140312",
+    "patient_age": null,
+    "patient_sex": "2",
+    "drugs": "SPIRIVA",
+    "reactions": "Dry mouth, Product quality issue",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 36,
+    "received_date": "20140312",
+    "patient_age": "62",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS, LETAIRIS",
+    "reactions": "Localised oedema, Oedema peripheral, Fluid retention, Nasal congestion",
+    "serious": 1,
+    "country": "US"
+  },
+  {
+    "id": 37,
+    "received_date": "20140312",
+    "patient_age": null,
+    "patient_sex": "1",
+    "drugs": "JANUMET, JANUVIA",
+    "reactions": "Metastases to spine, Anxiety, Renal cyst, Metastases to thorax, Metastases to retroperitoneum, Emotional disorder, Pancreatic carcinoma metastatic, Metastases to liver, Metastases to lung, Emotional distress, Lymphadenopathy, Prostate cancer, Peripheral venous disease",
+    "serious": 1,
+    "country": "US"
+  },
+  {
+    "id": 38,
+    "received_date": "20140312",
+    "patient_age": "59",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Dysphonia, Throat irritation",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 39,
+    "received_date": "20140312",
+    "patient_age": "34",
+    "patient_sex": "2",
+    "drugs": "KLACID, CLAVULIN, OKI, TACHIPIRINA",
+    "reactions": "Swollen tongue, Pruritus, Rash generalised",
+    "serious": 1,
+    "country": "IT"
+  },
+  {
+    "id": 40,
+    "received_date": "20140312",
+    "patient_age": "69",
+    "patient_sex": "1",
+    "drugs": "LETAIRIS",
+    "reactions": "Anaemia",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 41,
+    "received_date": "20140312",
+    "patient_age": "22",
+    "patient_sex": "2",
+    "drugs": "PREDNISONE, METHYLPREDNISOLONE, HYDROXYCHLOROQUINE, MYCOPHENOLATE MOFETIL, CICLOSPORIN, DAPSONE",
+    "reactions": "Listeriosis, Pyrexia, Diarrhoea, Meningitis",
+    "serious": 1,
+    "country": "CN"
+  },
+  {
+    "id": 42,
+    "received_date": "20140312",
+    "patient_age": "54",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Dizziness, Oedema, Dyspnoea",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 43,
+    "received_date": "20140312",
+    "patient_age": null,
+    "patient_sex": "1",
+    "drugs": "TASIGNA",
+    "reactions": "Overdose, General physical health deterioration, Malaise, Drug ineffective",
+    "serious": 1,
+    "country": "US"
+  },
+  {
+    "id": 44,
+    "received_date": "20140312",
+    "patient_age": "64",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS, LETAIRIS",
+    "reactions": "Liver function test abnormal, Liver disorder",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 45,
+    "received_date": "20140312",
+    "patient_age": "69",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS, LETAIRIS",
+    "reactions": "Headache",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 46,
+    "received_date": "20140312",
+    "patient_age": "88",
+    "patient_sex": "2",
+    "drugs": "CITALOPRAM, PREVISCAN, DAFALGAN",
+    "reactions": "Haematoma, Thrombocytopenia, International normalised ratio increased",
+    "serious": 1,
+    "country": "FR"
+  },
+  {
+    "id": 47,
+    "received_date": "20140312",
+    "patient_age": "73",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Dyspnoea, Hypoxia",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 48,
+    "received_date": "20140312",
+    "patient_age": "29",
+    "patient_sex": "2",
+    "drugs": "MIRENA, MIRENA",
+    "reactions": "Device dislocation",
+    "serious": 1,
+    "country": "US"
+  },
+  {
+    "id": 49,
+    "received_date": "20140312",
+    "patient_age": "93",
+    "patient_sex": "1",
+    "drugs": "OXYGEN., LETAIRIS",
+    "reactions": "Epistaxis, Cough, Nasal dryness, Nasal congestion, Haemoptysis, Asthenia",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 50,
+    "received_date": "20140312",
+    "patient_age": null,
+    "patient_sex": "2",
+    "drugs": "MORPHINE SULFATE EXTENDED-RELEASE TABLETS (RHODES 74-862), MORPHINE SULFATE (SIMILAR TO NDA 19-516), AMLODIPINE, TRIAMTERENE AND HYDROCHLOROTHIAZID, ASPIRIN, CELEXA                             /00582602/, CLOBETASOL PROPRIONATE, FIORICET",
+    "reactions": "Cerebrovascular accident, Blood pressure increased, Pain",
+    "serious": 1,
+    "country": "US"
+  },
+  {
+    "id": 51,
+    "received_date": "20140312",
+    "patient_age": "71",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Malaise, Gingivitis",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 52,
+    "received_date": "20140312",
+    "patient_age": "46",
+    "patient_sex": "2",
+    "drugs": "MIRTAZAPINE (UNKNOWN), LANSOPRAZOLE, NASONEX",
+    "reactions": "Aggression, Violence-related symptom, Anger, Blepharospasm, Suicidal ideation",
+    "serious": 1,
+    "country": "GB"
+  },
+  {
+    "id": 53,
+    "received_date": "20140312",
+    "patient_age": "51",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS, LETAIRIS",
+    "reactions": "Oedema peripheral",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 54,
+    "received_date": "20140312",
+    "patient_age": null,
+    "patient_sex": "1",
+    "drugs": "CASODEX, CASODEX",
+    "reactions": "Dyspnoea, Drug ineffective",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 55,
+    "received_date": "20140312",
+    "patient_age": "52",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Haemoglobin decreased",
+    "serious": 1,
+    "country": "US"
+  },
+  {
+    "id": 56,
+    "received_date": "20140312",
+    "patient_age": null,
+    "patient_sex": "1",
+    "drugs": "CASODEX",
+    "reactions": "Heart rate decreased",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 57,
+    "received_date": "20140312",
+    "patient_age": "60",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Oedema peripheral",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 58,
+    "received_date": "20140312",
+    "patient_age": "10",
+    "patient_sex": "1",
+    "drugs": "TACROLIMUS (WATSON LABORATORIES), PREDNISONE, PREDNISONE, AZATHIOPRINE",
+    "reactions": "Posterior reversible encephalopathy syndrome, Cerebral haemorrhage, Subarachnoid haemorrhage",
+    "serious": 1,
+    "country": "US"
+  },
+  {
+    "id": 59,
+    "received_date": "20140312",
+    "patient_age": "82",
+    "patient_sex": "1",
+    "drugs": "LETAIRIS",
+    "reactions": "Dyspnoea",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 60,
+    "received_date": "20140312",
+    "patient_age": "41",
+    "patient_sex": "1",
+    "drugs": "DOXYCYCLINE, AMLODIPINE, PARACETAMOL, ENALAPRIL, DOXAZOSIN (UNKNOWN), INDAPAMIDE",
+    "reactions": "Erection increased",
+    "serious": 1,
+    "country": "GB"
+  },
+  {
+    "id": 61,
+    "received_date": "20140312",
+    "patient_age": "29",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Hypertension",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 62,
+    "received_date": "20140312",
+    "patient_age": "65",
+    "patient_sex": "1",
+    "drugs": "CITALOPRAM (UNKNOWN), PROPRANOLOL, RANITIDINE, THIAMINE HYDROCHLORIDE, VITAMIN B COMPLEX                  /00212701/",
+    "reactions": "Hyponatraemia",
+    "serious": 1,
+    "country": "GB"
+  },
+  {
+    "id": 63,
+    "received_date": "20140312",
+    "patient_age": "71",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Gastric disorder, Dyspnoea",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 64,
+    "received_date": "20140312",
+    "patient_age": "50",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Unevaluable event",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 65,
+    "received_date": "20140312",
+    "patient_age": "31",
+    "patient_sex": "2",
+    "drugs": "ADCIRCA, LETAIRIS",
+    "reactions": "Drug hypersensitivity, Pruritus, Rash",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 66,
+    "received_date": "20140312",
+    "patient_age": "71",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Oedema, Fluid retention",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 67,
+    "received_date": "20140312",
+    "patient_age": "32",
+    "patient_sex": "1",
+    "drugs": "LETAIRIS",
+    "reactions": "Oedema",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 68,
+    "received_date": "20140312",
+    "patient_age": "70",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Unevaluable event, Eructation, Chest discomfort",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 69,
+    "received_date": "20140312",
+    "patient_age": "78",
+    "patient_sex": "1",
+    "drugs": "LETAIRIS",
+    "reactions": "Pollakiuria, Poor quality sleep, Dyspnoea",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 70,
+    "received_date": "20140312",
+    "patient_age": "73",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Feeling abnormal",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 71,
+    "received_date": "20140312",
+    "patient_age": "64",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Swelling",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 72,
+    "received_date": "20140312",
+    "patient_age": "51",
+    "patient_sex": "1",
+    "drugs": "LETAIRIS",
+    "reactions": "Nasal congestion, Seasonal allergy",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 73,
+    "received_date": "20140312",
+    "patient_age": "49",
+    "patient_sex": "1",
+    "drugs": "LETAIRIS",
+    "reactions": "Nausea",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 74,
+    "received_date": "20140312",
+    "patient_age": "65",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Nasal congestion",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 75,
+    "received_date": "20140312",
+    "patient_age": "53",
+    "patient_sex": "2",
+    "drugs": "PREDNISONE, CYCLOPHOSPHAMIDE",
+    "reactions": "Loss of consciousness, Listeriosis, Pyrexia, Headache, Vomiting, Meningitis",
+    "serious": 1,
+    "country": "CN"
+  },
+  {
+    "id": 76,
+    "received_date": "20140312",
+    "patient_age": "62",
+    "patient_sex": "1",
+    "drugs": "CASODEX, LUPRON, IBUPROPHEN, ULRAM, PROSCAR",
+    "reactions": "Diarrhoea, Arthralgia, Nausea",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 77,
+    "received_date": "20140312",
+    "patient_age": "59",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Malaise, Weight fluctuation",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 78,
+    "received_date": "20140312",
+    "patient_age": "53",
+    "patient_sex": "1",
+    "drugs": "LETAIRIS",
+    "reactions": "Dyspnoea, Tremor, Bone pain, Presyncope",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 79,
+    "received_date": "20140312",
+    "patient_age": "55",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Nasopharyngitis",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 80,
+    "received_date": "20140312",
+    "patient_age": "67",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Respiratory tract infection, Body temperature, Pneumonia, Productive cough",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 81,
+    "received_date": "20140312",
+    "patient_age": "76",
+    "patient_sex": "1",
+    "drugs": "LETAIRIS",
+    "reactions": "No therapeutic response",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 82,
+    "received_date": "20140312",
+    "patient_age": "57",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Blood count abnormal",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 83,
+    "received_date": "20140312",
+    "patient_age": "63",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Unevaluable event",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 84,
+    "received_date": "20140312",
+    "patient_age": "75",
+    "patient_sex": "1",
+    "drugs": "LETAIRIS",
+    "reactions": "Unevaluable event",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 85,
+    "received_date": "20140312",
+    "patient_age": "79",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS, LETAIRIS",
+    "reactions": "Dyspnoea exertional, Fatigue",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 86,
+    "received_date": "20140312",
+    "patient_age": "72",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS, LETAIRIS",
+    "reactions": "Fluid retention, Haemoglobin decreased",
+    "serious": 1,
+    "country": "US"
+  },
+  {
+    "id": 87,
+    "received_date": "20140312",
+    "patient_age": "67",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Cellulitis",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 88,
+    "received_date": "20140312",
+    "patient_age": "19",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Dyspnoea, Dyspnoea exertional, Oedema",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 89,
+    "received_date": "20140312",
+    "patient_age": "32",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS, LETAIRIS",
+    "reactions": "Hepatic enzyme decreased",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 90,
+    "received_date": "20140312",
+    "patient_age": "44",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Headache, Dyspnoea, Diarrhoea, Increased appetite, Swelling, Weight increased, Vomiting",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 91,
+    "received_date": "20140312",
+    "patient_age": "75",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Dyspnoea",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 92,
+    "received_date": "20140312",
+    "patient_age": "77",
+    "patient_sex": "1",
+    "drugs": "RAMIPRIL., WARFARIN, LIPITOR, TAMSULOSIN, ADALAT CC, DIPYRIDAMOLE., SYNTHROID, VISMODEGIB, PHYTONADIONE.",
+    "reactions": "Subdural haematoma",
+    "serious": 1,
+    "country": "CA"
+  },
+  {
+    "id": 93,
+    "received_date": "20140312",
+    "patient_age": "53",
+    "patient_sex": "1",
+    "drugs": "LETAIRIS",
+    "reactions": "Peripheral swelling",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 94,
+    "received_date": "20140312",
+    "patient_age": "88",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Dyspnoea exertional",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 95,
+    "received_date": "20140312",
+    "patient_age": null,
+    "patient_sex": "1",
+    "drugs": "DEPAKOTE",
+    "reactions": "Tremor, Dry mouth",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 96,
+    "received_date": "20140312",
+    "patient_age": "62",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS, REMODULIN",
+    "reactions": "Unevaluable event",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 97,
+    "received_date": "20140312",
+    "patient_age": "25",
+    "patient_sex": "1",
+    "drugs": "CITALOPRAM ORAL SOLUTION, CYMBALTA",
+    "reactions": "Sopor, Drug abuse, Overdose",
+    "serious": 1,
+    "country": "IT"
+  },
+  {
+    "id": 98,
+    "received_date": "20140312",
+    "patient_age": "77",
+    "patient_sex": "1",
+    "drugs": "DONEPEZIL, DONEPEZIL (UNKNOWN), TRAMADOL",
+    "reactions": "Hallucination, visual, Headache, Insomnia, Somnolence, Confusional state",
+    "serious": 1,
+    "country": "GB"
+  },
+  {
+    "id": 99,
+    "received_date": "20140312",
+    "patient_age": "56",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Headache, Dizziness exertional, Haemoglobin decreased, Dyspnoea",
+    "serious": 2,
+    "country": "US"
+  },
+  {
+    "id": 100,
+    "received_date": "20140312",
+    "patient_age": "65",
+    "patient_sex": "2",
+    "drugs": "LETAIRIS",
+    "reactions": "Hot flush, Rosacea",
+    "serious": 2,
+    "country": "US"
+  }
+]
